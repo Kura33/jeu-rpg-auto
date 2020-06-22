@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{49795C07-D947-494F-9829-F32F16342FDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jeux/Joueur.cs">
+    <Files>
+      <File FileName="jeux/Program.cs" Line="36" Column="37" />
+      <File FileName="jeux/Joueur.cs" Line="81" Column="50" />
+      <File FileName="jeux/Monstre.cs" />
+      <File FileName="jeux/Larbin.cs" />
+      <File FileName="jeux/Capitaine.cs" />
+      <File FileName="jeux/Boss.cs" />
+      <File FileName="jeux/ICombattant.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jeux" expanded="True">
+            <Node name="jeux" expanded="True">
+              <Node name="Joueur.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.jeux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

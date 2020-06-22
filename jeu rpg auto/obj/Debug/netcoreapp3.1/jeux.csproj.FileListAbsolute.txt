@@ -1,0 +1,10 @@
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/bin/Debug/netcoreapp3.1/jeux.deps.json
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/bin/Debug/netcoreapp3.1/jeux.runtimeconfig.json
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/bin/Debug/netcoreapp3.1/jeux.runtimeconfig.dev.json
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/bin/Debug/netcoreapp3.1/jeux.dll
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/bin/Debug/netcoreapp3.1/jeux.pdb
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/obj/Debug/netcoreapp3.1/jeux.csprojAssemblyReference.cache
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/obj/Debug/netcoreapp3.1/jeux.AssemblyInfoInputs.cache
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/obj/Debug/netcoreapp3.1/jeux.AssemblyInfo.cs
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/obj/Debug/netcoreapp3.1/jeux.dll
+/Users/kurazul/Documents/Cours CESI/C#/jeux/jeux/obj/Debug/netcoreapp3.1/jeux.pdb
